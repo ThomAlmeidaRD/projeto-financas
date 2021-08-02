@@ -76,3 +76,12 @@ width: 100%;
     justify-content: left;
     align-items: center;
 }
+
+
+
+#saldo{
+    color: rgba(0, 151, 76, 0.932);
+}
+#despesa{
+    color: crimson;
+}
